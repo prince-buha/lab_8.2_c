@@ -1,3 +1,14 @@
+/*
+enter count 3
+enter count A :1
+enter count A :2
+enter count A :3
+enter count B :4
+enter count B :5
+enter count B :6
+  5  7  9
+	*/
+
 #include<stdio.h>
 main()
 {
